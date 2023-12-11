@@ -1,0 +1,15 @@
+1. **Android:** Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
+1. **API (Application Programming Interface):** An application programming interface is a way for two or more computer programs to communicate with each other. It is a type of software interface, offering a service to other pieces of software.
+1. **Barcode:** A barcode is an image consisting of a series of parallel black and white lines that, when scanned, relays information about a product. Barcodes are read by special optical scanners. Once the scanner device is placed across the barcode, it immediately processes the data contained within it
+1. **Cryptographic Functions:** A cryptographic hash function is a mathematical function used in cryptography. Typical hash functions take inputs of variable lengths to return outputs of a fixed length. A cryptographic hash function combines the message-passing capabilities of hash functions with security properties.
+1. **Cryptography:** Cryptography is technique of securing information and communications through use of codes so that only those people for whom the information is intended can understand it and process it. Thus, preventing unauthorized access to information.
+1. **MVC (Model-View-Controller):** Model–view–controller is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements.
+1. **PDF (file) Integrity:** PDF File integrity refers to the process of protecting a file from unauthorized changes, including cyber-attacks. In other words, a file's 'integrity' is validated to determine whether or not it has been altered after its creation, curation, archiving or other qualifying event.
+1. **QR Code (Quick Response Code):** A quick response (QR) code is a type of barcode that can be read easily by a digital device and which stores information as a series of pixels in a square-shaped grid.
+1. **Spider:** Alternate Name for Web Crawler (Refer Web Crawler)
+1. **Spiderbot:** Alternate Name for Web Crawler (Refer Web Crawler)
+1. **UML (Unified Modeling Language):** The unified modeling language is a general-purpose visual modeling language that is intended to provide a standard way to visualize the design of a system.
+1. **Web Crawler:** A tool, program, software or script that is used to perform web crawling is called as Web Scraper.
+1. **Web Crawling:** A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web and that is typically operated by search engines for the purpose of Web indexing.
+1. **Web Scraper:** A tool, program, software or script that is used to perform web scraping is called as Web Scraper.
+1. **Web Scraping:** Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. Web scraping software may directly access the World Wide Web using the Hypertext Transfer Protocol or a web browser.
